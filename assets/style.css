@@ -99,3 +99,10 @@ body {
   background-position: center;
   background-size: cover;
 }
+
+.portfolio-page {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
